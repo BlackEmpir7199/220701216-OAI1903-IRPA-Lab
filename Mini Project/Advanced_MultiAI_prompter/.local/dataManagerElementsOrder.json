@@ -1,0 +1,43 @@
+{
+  "Workflows": [
+    {
+      "Path": null,
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [],
+      "ArgumentsSectionElementsOrder": null,
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "messageTable&Sequence_1",
+        "responsesTable&Sequence_1",
+        "selectedPlatforms&Sequence_1",
+        "claudeResponses&Sequence_1",
+        "geminiResponses&Sequence_1",
+        "chatGPTResponses&Sequence_1",
+        "userPrompt&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    },
+    {
+      "Path": "../../../assignments/Ip  - git/220701216-CS19542-IP-Lab/Project-Documentation/Main.xaml",
+      "SortBy": 0,
+      "VariablesSectionElementsOrder": [
+        "perplexityResponses&Sequence_1",
+        "responseTable&Sequence_1",
+        "userPrompt&Sequence_1",
+        "chatGPTResponses&Sequence_1",
+        "geminiResponses&Sequence_1",
+        "claudeResponses&Sequence_1"
+      ],
+      "ArgumentsSectionElementsOrder": [],
+      "ConstantsSectionElementsOrder": [],
+      "AddedNamespaces": null
+    }
+  ]
+}
